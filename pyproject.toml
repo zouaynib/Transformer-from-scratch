@@ -1,0 +1,12 @@
+[project]
+name = "scratchformer"
+version = "0.1.0"
+description = "A decoder-only transformer built from scratch in PyTorch, from vanilla GPT to Mistral-style components."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools.packages.find]
+include = ["scratchformer*"]
