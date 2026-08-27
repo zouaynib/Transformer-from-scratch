@@ -18,7 +18,7 @@ Written as interview preparation for **Mistral AI**.
 
 | # | Part | Module | Status |
 |---|------|--------|--------|
-| 1 | Scaled dot-product attention | `attention.py` | ⬜ |
+| 1 | Scaled dot-product attention | `attention.py` | ✅ |
 | 2 | Multi-head attention | `attention.py` | ⬜ |
 | 3 | Position-wise feed-forward | `feedforward.py` | ⬜ |
 | 4 | Normalization: LayerNorm → RMSNorm | `norm.py` | ⬜ |
